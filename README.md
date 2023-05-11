@@ -1,6 +1,6 @@
 ## Twitter Sentiment Analysis: News Mood
 
-This repository contains a Python script that analyzes the sentiment of the latest tweets from five major news organizations: BBC, CBS, CNN, Fox News, and The New York Times. The script uses the Tweepy library to access the Twitter API and the VADER Sentiment Analysis library to analyze the sentiment of the tweets. The result will be a score ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative sentiment possible, and +1 the most positive sentiment possible. The results are then graphed into a plot graph and a bar graph. 
+This repository contains a Python script that analyzes the sentiment of the latest tweets from five major news organizations: BBC, CBS, CNN, Fox News, and The New York Times. The script uses the Tweepy library to access the Twitter API and the VADER Sentiment Analysis library to analyze the sentiment of the tweets. The result will be a score ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative sentiment possible, and +1 is the most positive sentiment possible. The results are then graphed into a plot graph and a bar graph. 
 
 ## Getting Started
 
